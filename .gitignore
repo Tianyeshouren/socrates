@@ -11,8 +11,7 @@ package-lock.json
 
 node_modules
 dist
-dist-ssr
-dist-electron
+dist-ssrist-electron
 release
 *.local
 
